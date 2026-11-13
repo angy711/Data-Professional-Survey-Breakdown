@@ -25,7 +25,7 @@ An interactive Power BI dashboard built on real survey data from data profession
 
 ## Project Overview
 
-This is the final project of a beginner Power BI course. The raw survey file is cleaned and transformed in **Power Query**, then visualized in a one-page dashboard with a custom theme and color scheme. The goal is to give aspiring data professionals a quick overview of roles, pay, tools and job satisfaction in the field.
+This is a beginner friendly Power BI project. The raw survey file is cleaned and transformed in **Power Query**, then visualized in a one-page dashboard with a custom theme and color scheme. The goal is to give aspiring data professionals a quick overview of roles, pay, tools and job satisfaction in the field.
 
 ## Business Questions
 
