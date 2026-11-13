@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built on real survey data from data professionals. It shows who answered the survey, how salaries differ by job title, which programming languages are most popular, how hard it was to break into data, and how happy people are with their salary and work/life balance.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
