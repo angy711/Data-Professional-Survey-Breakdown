@@ -139,8 +139,8 @@ The dataset and the project idea come from the **Power BI tutorial series by Ale
 
 ## Author
 
-**[Angel Mary Sarammal]**
+**Angel Mary Sarammal**
 Data Analyst | M.Sc. Data Science
 
-- LinkedIn: [(https://www.linkedin.com/in/angel-mary-e-s-5a4808248/)]
+- LinkedIn: (https://www.linkedin.com/in/angel-mary-e-s-5a4808248/)
 - GitHub: [angy711](https://github.com/)
